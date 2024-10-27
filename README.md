@@ -4,4 +4,4 @@
 
 Vue SVG loader collection. Please check the **[documentation](https://ngeenx.github.io/nx-svg-loaders/docs/category/vue)** for installation and usage.
 
-## [⚡️ Play on StackBlitz](https://stackblitz.com/~/github.com/relliv/nx-vue-svg-loaders-demo)
+## [⚡️ Play on StackBlitz](https://stackblitz.com/~/github.com/ngeenx/nx-vue-svg-loaders-demo)
